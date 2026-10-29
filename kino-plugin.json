@@ -4,9 +4,9 @@
   "version": "1.1.3",
   "apiVersion": 6,
   "entry": "plugin.js",
-  "description": "Series y episodios hentai en español de hentaila.com: catálogo con Populares, Destacados y estrenos, géneros, búsqueda y varios servidores por episodio. Solo +18.",
-  "author": "comunidad",
-  "homepage": "https://github.com/yumehotaru41-rgb/kino-plugin-hentaila",
+  "description": "Series y episodios hentai en español de hentaila.com: catálogo con Populares, Destacados y estrenos, géneros, búsqueda y varios servidores por episodio. Solo +18. Hecho por Hotaru Yume.",
+  "author": "Hotaru Yume",
+  "homepage": "https://github.com/protaxiogenao-oss/kino-plugin-HeemfntaiLA-main",
   "icon": "icon.png",
   "hosts": [
     "hentaila.com",
