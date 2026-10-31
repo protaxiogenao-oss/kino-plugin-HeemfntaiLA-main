@@ -4,8 +4,9 @@
   "version": "1.1.4",
   "apiVersion": 6,
   "entry": "plugin.js",
-  "description": "Hecho por Hotaru Yume Series y episodios hentai en español de hentaila.com: catálogo con Populares, Destacados y estrenos, géneros, búsqueda y varios servidores por episodio. Solo +18. Hecho por Hotaru Yume.",
+  "description": "Series y episodios hentai en español de hentaila.com: catálogo con Populares, Destacados y estrenos, géneros. Solo +18.",
   "author": "Hotaru Yume",
+  "creator": "hotaruyume",
   "homepage": "https://github.com/protaxiogenao-oss/kino-plugin-HeemfntaiLA-main",
   "icon": "icon.png",
   "hosts": [
